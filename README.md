@@ -12,3 +12,10 @@ bash ./scripts/Exchange_script/Exchange.sh
 bash ./scripts/Traffic_script/Traffic.sh
 bash ./scripts/Weather_script/Weather.sh
 bash ./scripts/ILI_script/Illness.sh`
+
+# Requirement
+*numpy
+*matplotlib
+*pandas
+*scikit-learn
+*torch==1.9.0
