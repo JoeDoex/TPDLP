@@ -7,7 +7,7 @@ An efficient forecasting model for long-term time series forecasting.
 2.Download data. You can obtain all the six benchmarks from [Google Drive](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy?usp=sharing). All the datasets are well pre-processed and can be used easily.  
 3.Train the model. You can reproduce the experiment results by:  
 
-```python  
+``` 
 python -u run_longExp.py \
   --is_training 1 \
   --root_path ./dataset/ \
