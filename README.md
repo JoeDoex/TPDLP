@@ -29,3 +29,17 @@ python -u run_longExp.py \
 * pandas
 * scikit-learn
 * torch==1.9.0
+
+# Baselines
+* MICN
+* InParformer
+* CLformer
+* FEDformer
+* Autoformer
+* Informer
+* LogTrans
+* Reformer
+* LSTNet
+
+# Acknowledgement
+https://github.com/zhouhaoyi/Informer2020
