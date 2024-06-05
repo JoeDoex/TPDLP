@@ -1,6 +1,5 @@
 # TPDLP
-An efficient forecasting model for long-term time series forecasting.
-
+Temporal Patterns Decomposition and Legendre Projection for Long-term Time Series Forecasting.
 # Get Started
 
 1.Install Python 3.6, PyTorch 1.9.0.  
